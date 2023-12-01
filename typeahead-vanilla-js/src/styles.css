@@ -1,0 +1,14 @@
+.suggestionsBox{
+    display: none;
+    max-height: 300px;
+    border: 1px solid silver;
+}
+
+.suggestionsBoxVisible{
+    display: block;
+    padding: 10px;
+}
+
+li{
+    list-style-type: none;
+}
